@@ -1,0 +1,6 @@
+#0;are;2;f1.txt;1;f2.txt;2;#
+#7;hii;2;f1.txt;3;f2.txt;2;#
+#7;hello;2;f1.txt;2;f2.txt;1;#
+#7;hoe;1;f1.txt;1;#
+#14;okay;1;f2.txt;1;#
+#24;you;2;f1.txt;2;f2.txt;1;#
